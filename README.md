@@ -3,7 +3,7 @@
 A console application to find the optimized 5 digit Zip-Code ranges given a set of 5 digit Zip-Code ranges
 
 ## Input 
-A range of 5 Digit Zip Code Ranges
+Space separated list of 5 Digit Zip Code Ranges
 
 ## Output 
 Increasing optimized order of set of Ranges
